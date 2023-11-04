@@ -15,6 +15,7 @@
   width: 100%;
   display: flex;
   align-items: center;
+  background-color: #5255fb;
 }
 .logo{
   width: 50px;
@@ -41,7 +42,7 @@ color: #000;
 font-size: 14px;
 }
 nav ul li a:hover{
-  color: #ff5ea2;
+  color: #ffffff;
 }
 .row{
   display: flex;
